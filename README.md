@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayandip28
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on android devolopment
+- 🌱 I’m currently learning c++ & java
+- 💞️ I’m looking to collaborate on web devolopment
 - 📫 How to reach me email: mannaayandip28@gmail.com
 
 <!---
